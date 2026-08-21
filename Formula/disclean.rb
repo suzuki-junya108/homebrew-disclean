@@ -1,10 +1,10 @@
 class Disclean < Formula
   desc "macOS のディスクを、消す前に重さで見せて片づけるツール（隔離庫つき）"
   homepage "https://github.com/suzuki-junya108/disclean"
-  url "https://github.com/suzuki-junya108/disclean/releases/download/v0.3.0/disclean-0.3.0-macos-universal.tar.gz"
-  sha256 "534cc887cccd56f64a00ff6c886586319603255a82436d4c565bcb2cf7c20320"
+  url "https://github.com/suzuki-junya108/disclean/releases/download/v0.4.0/disclean-0.4.0-macos-universal.tar.gz"
+  sha256 "283ec0e11c5387ccd05974489d31138bcdd9e84ecdc9628c5307e73e953675f7"
   license "MIT"
-  version "0.3.0"
+  version "0.4.0"
 
   depends_on macos: :sonoma
 
